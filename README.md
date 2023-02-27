@@ -1,0 +1,2 @@
+# ukrReceipts
+Recognize ukr receipts
